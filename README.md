@@ -12,7 +12,7 @@ Stock Market is a Vite project for tracking stock prices, utilizing data from [I
 2. **Navigate to the project directory:**
 
     ```
-    cd stock-market
+    cd Stock-Market-Visualization
     ```
 
 3. **Install dependencies:**
